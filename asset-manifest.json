@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/personalidad-test/static/js/main.edef7abc.chunk.js",
+    "main.js.map": "/personalidad-test/static/js/main.edef7abc.chunk.js.map",
+    "runtime-main.js": "/personalidad-test/static/js/runtime-main.45ad0eb9.js",
+    "runtime-main.js.map": "/personalidad-test/static/js/runtime-main.45ad0eb9.js.map",
+    "static/js/2.4390699d.chunk.js": "/personalidad-test/static/js/2.4390699d.chunk.js",
+    "static/js/2.4390699d.chunk.js.map": "/personalidad-test/static/js/2.4390699d.chunk.js.map",
+    "index.html": "/personalidad-test/index.html",
+    "static/js/2.4390699d.chunk.js.LICENSE.txt": "/personalidad-test/static/js/2.4390699d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45ad0eb9.js",
+    "static/js/2.4390699d.chunk.js",
+    "static/js/main.edef7abc.chunk.js"
+  ]
+}
